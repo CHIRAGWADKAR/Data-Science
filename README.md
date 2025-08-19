@@ -17,6 +17,7 @@ Each experiment is organized in a separate folder, containing the corresponding 
    
 **Experiment 3:** To apply Logistic Regression for binary classification problems using machine learning,
    and assess model performance through appropriate evaluation metrics.
+   
 **Experiment 4:** To implement Decision Tree classifier models to perform supervised classification and evaluate model performance.
 
 **Experiment 5:** To develop and evaluate logistic regression models for multi-class classification tasks using machine learning.
